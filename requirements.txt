@@ -1,0 +1,13 @@
+opencv-python
+scikit-learn
+numpy
+pandas
+Pillow 
+plotly
+matplotlib
+streamlit
+pixellib
+webcolors
+KMeans
+tensorflow
+
